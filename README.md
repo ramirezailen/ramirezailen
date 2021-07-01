@@ -4,7 +4,7 @@
 
 [![Linkedin: mirnaramirez](https://img.shields.io/badge/-mirnaramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirnaramirez/)](https://www.linkedin.com/in/mirnaramirez/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me:  
 
 ```javascript
 const Ailen = {
@@ -15,7 +15,7 @@ const Ailen = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!---
 ramirezailen/ramirezailen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
