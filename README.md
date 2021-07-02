@@ -16,7 +16,6 @@ const Ailen = {
  ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> <em><h5><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)  </h5> </em> 
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> I love connecting 
 <!---
 ramirezailen/ramirezailen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
