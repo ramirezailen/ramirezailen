@@ -2,7 +2,7 @@
 
 <p><em> Data Analyst & Data Scientist <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![Linkedin: mirnaramirez](https://img.shields.io/badge/-mirnaramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirnaramirez/)](https://www.linkedin.com/in/mirnaramirez/)
+[![Linkedin: ramirezailen](https://img.shields.io/badge/-mirnaramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramirezailen/)](https://www.linkedin.com/in/ramirezailen/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me:  
 
