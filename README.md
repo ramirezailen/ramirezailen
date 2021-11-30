@@ -2,7 +2,7 @@
 
 <p><em> Data Analyst & Data Scientist <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![Linkedin: ramirezailen](https://img.shields.io/badge/-ailenramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramirezailen/)](https://www.linkedin.com/in/ramirezailen/)
+[![Linkedin: ramirezailen](https://img.shields.io/badge/-ramirezailen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramirezailen/)](https://www.linkedin.com/in/ramirezailen/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me:  
 
@@ -14,5 +14,3 @@ const Ailen = {
  challenge: "I am doing the #100DaysOfCode challenge focused on K-means Clustering in Python"
 }
  ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you</b> :) </em> 
- 
